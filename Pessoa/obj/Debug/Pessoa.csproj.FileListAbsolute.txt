@@ -1,0 +1,6 @@
+C:\Users\ediva\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\ediva\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\ediva\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\ediva\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csprojAssemblyReference.cache
+C:\Users\ediva\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\ediva\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
